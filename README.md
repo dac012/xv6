@@ -16,10 +16,10 @@ Este proyecto es ideal para estudiantes, docentes y entusiastas que deseen profu
 
 ## Estructura del repositorio
 
-- `kernel/` — Código fuente del núcleo de xv6
-- `user/` — Programas de usuario y utilidades
-- `Makefile` — Script de construcción para compilar y ejecutar xv6
-- Otros archivos y directorios relevantes para el entorno y las prácticas
+- `.vscode/`: Configuración para el entorno de desarrollo Visual Studio Code.
+- `xv6/`: Carpeta principal con el código fuente y recursos del sistema operativo xv6.
+- `scheduler`, `scheduler.c`: Archivos relacionados con el planificador de procesos.
+- `README.md`: Este archivo.
 
 ## Requisitos
 
